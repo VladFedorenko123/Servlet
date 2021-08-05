@@ -4,10 +4,10 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import com.srccode.clas.ConsonantsCalcualator;
+import com.srccode.clas.ConsonantsCalculator;
 
 class ConsonantCalcualatorTest {
-	ConsonantsCalcualator objectUnderTest = new ConsonantsCalcualator();
+	ConsonantsCalculator objectUnderTest = new ConsonantsCalculator();
 
 	@Test
 	void testGetConsonants() {

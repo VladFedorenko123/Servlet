@@ -7,7 +7,7 @@ import java.util.List;
 
 import com.srccode.interfaces.Consonants;
 
-public class ConsonantsCalcualator implements Consonants {
+public class ConsonantsCalculator implements Consonants {
 	private static final List<Character> CONSONANT = new ArrayList<>((Arrays.asList('b', 'c', 'd', 'f', 'q', 'j', 'k',
 			'l', 'm', 'n', 'p', 'q', 's', 't', 'v', 'x', 'z', 'h', 'r', 'w')));
 

@@ -1,4 +1,4 @@
-package com.srccode.clas;
+package com.srccode.dto;
 
 import java.sql.Timestamp;
 import java.util.Date;
